@@ -1,33 +1,35 @@
-### Hi there 👋, my name is Md Maiful Islam Fahim 
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://www.facebook.com/61557743933032/posts/122250471710258131/?substory_index=898422582965511&app=fbl)
+• 🔭 I'm currently working on: Web Development Projects
+• 🌱 I'm currently learning: React.js
+• 👯 I want to collaborate on: Web Development Projects
+• 🤝 I'm looking for help with: Web Development
+• 💬 Ask me about: Web Development
+• 📫 How to reach me: Google "Md. Maiful Islam Fahim" 
+• 😄 Pronouns: He/Him
+• ⚡ Fun fact: I Love Code
 
-Md. Maiful Islam Fahim is a dedicated and forward-thinking student currently navigating the crucial milestone of his Secondary School Certificate (SSC) examinations. His approach to academics is highly focused and detail-oriented, which is clear from his thorough preparation in core subjects like English, Bengali, and Information and Communication Technology (ICT). Beyond his school curriculum, Fahim has a strong passion for technology and software creation. He is actively exploring the world of web development, building skills in foundational and advanced technologies including HTML, CSS, JavaScript, React, and Vue.js. This technical curiosity, combined with his diligent study habits—such as analyzing past board question papers from Dinajpur and Chattogram boards to ensure absolute precision—highlights his drive for continuous learning and self-improvement.
-​In addition to his academic and technical pursuits, Fahim is someone who deeply values connection and community. He does not view success as a solo journey; instead, he actively supports and uplifts his friends and fellow SSC candidates during this high-pressure exam season. His strong bond with his local community in Shyampur shows how much he values staying connected with his neighbors and friends, often sharing encouraging messages and keeping everyone united. He strikes a wonderful balance between working hard for his educational and programming goals and remaining a supportive, grounded presence for those around him.
+About Me :
+Md. Maiful Islam Fahim is a focused SSC candidate and an aspiring web developer with a passion for building software using HTML, CSS, JavaScript, React, and Vue.js. Known for his detail-oriented approach, he balances rigorous academic preparation—analyzing past board papers—with a deep commitment to his community in Shyampur. A supportive friend and lifelong learner, Fahim strives for technical excellence while uplifting those around him during their shared academic journey.
 
-Skills:  JS / HTML / CSS
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdmaifulislamfahim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdmaifulislamfahim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@maifulislam-k4i) 
 
-- 🔭 I’m currently working on this page.Building interactive web apps and personal portfolio projects 
-- 🌱 I’m currently learning  Advanced React, Vue.js, and modern CSS frameworks 
-- 👯 I’m looking to collaborate on Open-source frontend projects and creative UI designs 
-- 🤔 I’m looking for help with Best practices in Vue.js and optimizing web performance 
-- 💬 Ask me about HTML, CSS, JavaScript, or how I balance school and coding 
-- 📫 How to reach me: https://www.facebook.com/mdmaifulislamfahim 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I absolute love styling web pages, and I started my coding journey while preparing for school exams! 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=maiful088&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=maiful088&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=maiful088&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=maiful088&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maiful088)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mdmaifulislamfahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mdmaifulislamfahim?igsh=MWphdXI0dWRpNGRrYg==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@maifulislam-k4i?si=geR_8YN2Dz-bCshv)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=maiful088&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maiful088)](https://github.com/ryo-ma/github-profile-trophy)
+---
+[![](https://komarev.com/ghpvc/?username=maiful088&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiful088)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maiful088&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/maiful088)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=maiful088)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
