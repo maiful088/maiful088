@@ -1,3 +1,6 @@
+<img width="864" height="1184" alt="Image" src="https://github.com/user-attachments/assets/597a3cf6-1399-4ef3-92c0-ef6693373215" />
+
+
 • 🔭 I'm currently working on: Web Development Projects
 • 🌱 I'm currently learning: React.js
 • 👯 I want to collaborate on: Web Development Projects
